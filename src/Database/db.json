@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Dipayan Dasgupta",
+      "username": "dipayan_2020",
+      "email": "dasguptadipayan8@gmail.com",
+      "contact": "6009595967",
+      "id": 1
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "Hitman",
+      "email": "dasguptadipayanboss@gmail.com",
+      "contact": "1234567891",
+      "id": 2
+    },
+    {
+      "name": "Hello",
+      "username": "Hii",
+      "email": "6009595967@gmail.com",
+      "contact": "22222222209",
+      "id": 3
+    },
+    {
+      "name": "Virat kohli",
+      "username": "VK",
+      "email": "hello@gmail.com",
+      "contact": "9191919191988",
+      "id": 4
+    }
+  ]
+}
