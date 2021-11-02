@@ -10,7 +10,7 @@ const useStyle = makeStyles({
 const Portfolio = () => {
     const classes = useStyle() ;
     return(
-            <Box style = {{display : 'flex'}}>
+            <Box style = {{display : 'flex' , justifyContent: 'center'}}>
                 <img className = {classes.obj} src = {photo} / >
             </Box>
     )
